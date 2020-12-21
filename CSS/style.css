@@ -1,0 +1,74 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    scroll-behavior: smooth;
+}
+body
+{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Header Area */
+
+/* ---------- designed in bootstrap --------- */
+
+/* Header Area */
+
+/* Home area */
+
+/* carousel */
+.carousel-caption
+{
+    position: absolute;
+    top: 40%;
+    left: 15%;
+    margin-bottom: 24%;
+    background: #636e72;
+    height: max-content;
+}
+.about-btn
+{
+    position: absolute;
+    top: 80%;
+    left: 48%;
+}
+
+/* Home area */
+
+/* About area */
+
+/* ---------- designed in bootstrap --------- */
+
+/* About area */
+
+/* Resume area */
+
+/* ---------- designed in bootstrap -------- */
+
+/* Resume area */
+
+/* Services area */
+
+/* ---------- designed in bootstrap -------- */
+
+/* Services area */
+
+/* Projects area */
+
+/* ---------- designed in bootstrap -------- */
+
+/* Projects area */
+
+/* My Blog Area */
+
+/* ---------- designed in bootstrap -------- */
+
+/* My Blog Area */
+
+/* Contact Area */
+
+/* ---------- designed in bootstrap -------- */
+
+/* Contact Area */
